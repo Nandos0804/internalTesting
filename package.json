@@ -1,0 +1,17 @@
+{
+  "name": "socketio-express-server",
+  "version": "1.0.0",
+  "description": "A simple WebSocket server with an HTML landing page using Socket.IO and Express.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5",
+    "tone": "^15.0.4"
+  }
+}
